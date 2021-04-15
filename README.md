@@ -8,3 +8,4 @@ Using computer vision to detect Covid from chest X-ray images obtained on kaggle
  
  To make a better model, I will create a transfer learning model in the next part to attempt to improve the model.
  
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fsaibala%2F2020%2F11%2F29%2Fnorthwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays%2F&psig=AOvVaw2r9EgFuA4spZugUUCq7Qtn&ust=1618553223054000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDqv-DK_-8CFQAAAAAdAAAAABAD)
