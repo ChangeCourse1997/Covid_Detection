@@ -7,3 +7,5 @@ Using computer vision to detect Covid from chest X-ray images obtained on kaggle
  After creating a basic CNN model to perform multiclassification with 3 classes, normal, pnuemonia non-covid and covid, the model had a low accuracy which could be due to several reasons. The dataset is too small and imbalanced, the X-ray images are almost exact making it hard to identify features, further tuning of model parameters are needed. However, creating a model for binary classification yielded much better results where the recall for pnuemonia class was quite high, although this might not be a good thing as false positives might put an unnecessary strain on hospital resources. At the same time a false negative is also detrimental as an infected patient could go on to infect more people unknowingly. Hence, it all depends on the needs of the consumer.
  
  To make a better model, I will create a transfer learning model in the next part to attempt to improve the model.
+
+![alt text](https://raw.githubusercontent.com/ChangeCourse1997/Covid_Detection/branch/IM-0128-0001.jpeg)
