@@ -8,4 +8,4 @@ Using computer vision to detect Covid from chest X-ray images obtained on kaggle
  
  To make a better model, I will create a transfer learning model in the next part to attempt to improve the model.
 
-![alt text](https://raw.githubusercontent.com/ChangeCourse1997/Covid_Detection/IM-0128-0001.jpeg)
+![X-ray image example](https://github.com/ChangeCourse1997/Covid_Detection/blob/main/IM-0128-0001.jpeg?raw=true)
