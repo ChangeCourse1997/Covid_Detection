@@ -9,3 +9,23 @@ Using computer vision to detect Covid from chest X-ray images obtained on kaggle
  To make a better model, I will create a transfer learning model in the next part to attempt to improve the model.
 
 ![X-ray image example](https://github.com/ChangeCourse1997/Covid_Detection/blob/main/IM-0128-0001.jpeg?raw=true)
+
+# Part 2: Transfer Learning 
+
+Using Transfer learning, the model accuracy increased greatly. With ResNet50, the pretrained model has the weights and biases I can use after it has trained on million of images in the image net. The results are summarized below
+
+
+
+
+              precision    recall  f1-score   support
+
+           0       0.83      0.86      0.84       234
+           1       0.91      0.89      0.90       390
+
+    accuracy                           0.88       624
+   macro avg       0.87      0.88      0.87       624
+weighted avg       0.88      0.88      0.88       624
+
+This model, the AutoDoc.h5 could save doctors so much time and contribute greatly to hospitals. This will be extra beneficial to countries struggling with Covid cases like India with 349,691 cases daily as at 24 Apr 2021. With so many cases, doctors need to identify patients with pneumonia and those who have similar symptoms but not infected with pneumonia.
+
+In conclusion, deep learning can be so beneficial and useful not just for businesses, but for the society as a whole. This has been an enjoyable project and displays the power of transfer learning. Thank you for reading!
