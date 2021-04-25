@@ -23,8 +23,7 @@ Using Transfer learning, the model accuracy increased greatly. With ResNet50, th
            1       0.91      0.89      0.90       390
 
     accuracy                           0.88       624
-   macro avg       0.87      0.88      0.87       624
-weighted avg       0.88      0.88      0.88       624
+
 
 This model, the AutoDoc.h5 could save doctors so much time and contribute greatly to hospitals. This will be extra beneficial to countries struggling with Covid cases like India with 349,691 cases daily as at 24 Apr 2021. With so many cases, doctors need to identify patients with pneumonia and those who have similar symptoms but not infected with pneumonia.
 
